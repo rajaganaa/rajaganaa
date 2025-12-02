@@ -1,37 +1,129 @@
-Rajaganapathy M
+# 🚀 Rajaganapathy M
 
-Master of Technology in Artificial Intelligence (M.Tech AI) | SRM University
-      I'm a passionate AI enthusiast driven to leverage technology for positive change. Currently, I'm pursuing my M.Tech in AI at SRM University,aiming to bridge the gap between 
-my decade-long experience in Electrical and Electronics Engineering (2013 B.E. graduate) and the fascinating realm of Artificial Intelligence and Machine Learning (AI/ML).
+### **Software Engineer (AI/ML) | M.Tech Artificial Intelligence (SRM University)**  
+### **LLMs • Agentic AI • Machine Learning • Deep Learning • NLP • Computer Vision • Reinforcement Learning**
 
-Skills & Expertise
-    •	Programming Languages: Python (Projects)
-    •	Databases: MySQL (Projects)
-    •	Data Analytics: Familiarity with data analysis techniques
-    •	Machine Learning: Actively learning and practicing ML concepts
-    •	Electrical Engineering: 10 years of experience in industrial maintenance and electrical site engineering (prior to career shift)
+---
 
-Projects
-    •	I'm actively working on various projects to solidify my understanding of Python, data analysis, and machine learning. Stay tuned for updates!
+## 🧑‍💻 About Me
 
-Learning Journey
-    •	M.Tech AI (SRM University): Deepening my knowledge and practical skills in AI and ML.
-    •	AI/ML Specialization (GUVI-IIT): Completed foundational coursework, eager to continue learning.
+I’m a **Software & AI Engineer** focused on building intelligent systems using **LLMs, Agentic AI, Machine Learning, Deep Learning, NLP, RL**, and **Computer Vision**.
 
-Motivation
-      My prior experience in electrical engineering exposed me to potential safety risks. This ignited a desire to explore safer and more efficient means of accomplishing tasks. 
-AI's transformative potential resonates deeply with me, and I'm committed to contributing to its advancement for a more positive global impact.
+Currently pursuing my **M.Tech in Artificial Intelligence**, I am specializing in **Agentic AI systems** where multiple AI agents can reason, plan, retrieve knowledge, use tools, and execute tasks autonomously.
 
-Looking Forward
-    •	Actively seeking AI/ML-related job opportunities to leverage my combined skillset and propel my career in this exciting field.
-    •	Open to collaborating on AI projects and continuously learning from others in the AI community.
+My goal is to build next-generation AI applications that combine **LLMs + Agents + Automation** to solve real-world problems.
 
-Connect with Me
-    •Feel free to reach out to me at rajaganaa@gmail.com or connect with me on professional networking platforms like LinkedIn: http://www.linkedin.com/in/raja-ganapathy-36b00658.
+---
 
-GitHub Repositories
-    •	List of GitHub repositories here with brief descriptions to showcase of projects.
+## 🛠️ Tech Stack & Tools
 
-Continuous Learning
-    •	I'm constantly striving to expand my knowledge base. Feel free to share any resources (blogs, tutorials, courses) that have been valuable in my AI/ML journey.
+### **Languages**
+- Python  
+- SQL  
+
+### **LLMs, NLP & Agents**
+- HuggingFace Transformers  
+- LangChain (Agents, RAG)  
+- OpenAI / GPT Models  
+- Vector Databases (FAISS)
+
+### **Machine Learning / Deep Learning**
+- TensorFlow  
+- PyTorch  
+- Keras  
+- scikit-learn  
+
+### **Software Tools**
+- Git & GitHub  
+- FastAPI  
+- Docker  
+- Linux  
+- VS Code  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaganaa&show_icons=true&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaganaa&layout=compact&theme=default" height="150">
+</p>
+
+---
+
+# 🧩 Featured Projects
+
+## 🔹 **1. Agentic AI System (Final M.Tech Project)**  
+**Tech:** LangChain Agents, OpenAI/GPT, Transformers, FAISS  
+- Multi-agent architecture (Planner, Retriever, Executor, Evaluator)  
+- Autonomous reasoning + tool usage  
+- RAG-powered knowledge retrieval  
+- Memory + step-by-step reasoning  
+- Executes tasks with minimal human input  
+
+🔗 Repo: *(update with your repository link)*
+
+---
+
+## 🔹 **2. LLM Chatbot with RAG + Memory**  
+**Tech:** Transformers, LangChain, FastAPI  
+- RAG pipeline (embeddings → vector search → response)  
+- Conversational memory  
+- API deployment  
+
+🔗 Repo: *(update with your repository link)*
+
+---
+
+## 🔹 **3. Deep Learning Image Classifier**  
+**Tech:** TensorFlow / PyTorch  
+- Transfer learning (ResNet, MobileNet)  
+- Evaluation dashboards  
+- Deployed model file generated  
+
+🔗 Repo: *(update with your repository link)*
+
+---
+
+## 🔹 **4. Reinforcement Learning Agent**  
+**Tech:** Python, Gymnasium  
+- Q-Learning, SARSA, Policy Gradients  
+- CartPole, MountainCar  
+- Reward visualizations  
+
+🔗 Repo: *(update with your repository link)*
+
+---
+
+## 🔹 **5. End-to-End ML Pipeline API**  
+**Tech:** scikit-learn, FastAPI, Docker  
+- Preprocessing → Training → Serving  
+- REST API for prediction  
+- Containerized deployment  
+
+🔗 Repo: *(update with your repository link)*
+
+---
+
+# 🎯 Current Focus
+- Agentic AI & Multi-Agent Systems  
+- Large Language Models (LLMs)  
+- RAG Architectures & Vector Databases  
+- Deep Learning & Computer Vision  
+- AI Software Deployment (FastAPI, Docker)
+
+---
+
+# 🤝 Open To
+- AI/ML Software Engineer roles  
+- Agentic AI & LLM projects  
+- Collaborations on applied AI systems  
+
+---
+
+# 📬 Connect With Me
+📧 Email: **rajaganaa@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/raja-ganapathy-36b00658/**
+
+---
 
