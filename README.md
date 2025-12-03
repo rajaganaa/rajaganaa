@@ -1,129 +1,160 @@
-# 🚀 Rajaganapathy M
+⚡ Rajaganapathy M
+AI Engineer | ML Engineer | LLM/Agent Engineer | M.Tech Artificial Intelligence (SRM University)
 
-### **Software Engineer (AI/ML) | M.Tech Artificial Intelligence (SRM University)**  
-### **LLMs • Agentic AI • Machine Learning • Deep Learning • NLP • Computer Vision • Reinforcement Learning**
+Agentic AI • LLMs • RAG Systems • Machine Learning • Deep Learning • NLP • RL • Computer Vision
 
----
+🌐 About Me
 
-## 🧑‍💻 About Me
+Passionate AI Engineer transitioning from 9+ years of engineering experience into advanced AI system development.
+I specialize in designing intelligent, autonomous systems using:
 
-I’m a **Software & AI Engineer** focused on building intelligent systems using **LLMs, Agentic AI, Machine Learning, Deep Learning, NLP, RL**, and **Computer Vision**.
+LLMs (GPT/Gemini/HF Models)
 
-Currently pursuing my **M.Tech in Artificial Intelligence**, I am specializing in **Agentic AI systems** where multiple AI agents can reason, plan, retrieve knowledge, use tools, and execute tasks autonomously.
+Agentic AI (Multi-Agent Architectures)
 
-My goal is to build next-generation AI applications that combine **LLMs + Agents + Automation** to solve real-world problems.
+RAG Pipelines (FAISS, Embeddings, Knowledge Retrieval)
 
----
+Reinforcement Learning & Deep Learning
 
-## 🛠️ Tech Stack & Tools
+AI Automation & Tool-Use Systems
 
-### **Languages**
-- Python  
-- SQL  
+Currently pursuing M.Tech in Artificial Intelligence, focusing on building scalable AI solutions that bridge LLMs + Agents + Automation for real-world impact.
 
-### **LLMs, NLP & Agents**
-- HuggingFace Transformers  
-- LangChain (Agents, RAG)  
-- OpenAI / GPT Models  
-- Vector Databases (FAISS)
+🧠 Core Expertise
+⚙️ AI Engineering
 
-### **Machine Learning / Deep Learning**
-- TensorFlow  
-- PyTorch  
-- Keras  
-- scikit-learn  
+LLM Integration (OpenAI, Gemini, HuggingFace)
 
-### **Software Tools**
-- Git & GitHub  
-- FastAPI  
-- Docker  
-- Linux  
-- VS Code  
+Multi-Agent Frameworks (LangChain Agents)
 
----
+RAG Architecture (Vector DBs, Retrieval Pipelines)
 
-## 📈 GitHub Stats
+Prompt Engineering & Structured Reasoning
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaganaa&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaganaa&layout=compact&theme=default" height="150">
-</p>
+📊 Machine Learning
 
----
+Regression, Classification, XGBoost, Random Forest
 
-# 🧩 Featured Projects
+Feature Engineering, Model Evaluation
 
-## 🔹 **1. Agentic AI System (Final M.Tech Project)**  
-**Tech:** LangChain Agents, OpenAI/GPT, Transformers, FAISS  
-- Multi-agent architecture (Planner, Retriever, Executor, Evaluator)  
-- Autonomous reasoning + tool usage  
-- RAG-powered knowledge retrieval  
-- Memory + step-by-step reasoning  
-- Executes tasks with minimal human input  
+Real-world ML Deployment (FastAPI)
 
-🔗 Repo: *(update with your repository link)*
+🧬 Deep Learning
 
----
+CNNs, RNN/LSTM, Transformers
 
-## 🔹 **2. LLM Chatbot with RAG + Memory**  
-**Tech:** Transformers, LangChain, FastAPI  
-- RAG pipeline (embeddings → vector search → response)  
-- Conversational memory  
-- API deployment  
+Image & Text Models
 
-🔗 Repo: *(update with your repository link)*
+PyTorch, TensorFlow
 
----
+🧩 NLP & Text Analytics
 
-## 🔹 **3. Deep Learning Image Classifier**  
-**Tech:** TensorFlow / PyTorch  
-- Transfer learning (ResNet, MobileNet)  
-- Evaluation dashboards  
-- Deployed model file generated  
+Tokenizers, Embeddings, TF-IDF
 
-🔗 Repo: *(update with your repository link)*
+Sentiment Analysis, Classification
 
----
+Sequence Models
 
-## 🔹 **4. Reinforcement Learning Agent**  
-**Tech:** Python, Gymnasium  
-- Q-Learning, SARSA, Policy Gradients  
-- CartPole, MountainCar  
-- Reward visualizations  
+🧠 Reinforcement Learning
 
-🔗 Repo: *(update with your repository link)*
+MDPs, Value Functions
 
----
+Q-Learning, SARSA, Policy Gradients
 
-## 🔹 **5. End-to-End ML Pipeline API**  
-**Tech:** scikit-learn, FastAPI, Docker  
-- Preprocessing → Training → Serving  
-- REST API for prediction  
-- Containerized deployment  
+Gymnasium Environments
 
-🔗 Repo: *(update with your repository link)*
+🛠️ Tech Stack
 
----
+Languages: Python, SQL
+Frameworks: PyTorch, TensorFlow, LangChain, scikit-learn
+LLM Tools: Transformers, OpenAI API, FAISS
+DevOps / Deployment: FastAPI, Docker, GitHub, Linux
+Other: OpenCV, Pandas, NumPy
 
-# 🎯 Current Focus
-- Agentic AI & Multi-Agent Systems  
-- Large Language Models (LLMs)  
-- RAG Architectures & Vector Databases  
-- Deep Learning & Computer Vision  
-- AI Software Deployment (FastAPI, Docker)
+🚀 Featured Projects
+🔥 1. Agentic Multi-Agent Automation System
 
----
+Tech: LangChain Agents, OpenAI/GPT, FAISS, Python
 
-# 🤝 Open To
-- AI/ML Software Engineer roles  
-- Agentic AI & LLM projects  
-- Collaborations on applied AI systems  
+Designed a 4-agent orchestration system (Planner → Retriever → Executor → Evaluator)
 
----
+Integrated memory, embeddings, and tool-use for automated workflows
 
-# 📬 Connect With Me
-📧 Email: **rajaganaa@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/raja-ganapathy-36b00658/**
+Supports task decomposition, reasoning traces, and knowledge retrieval
 
----
+Built for enterprise-level automation
 
+
+🧠 2. RAG-Based LLM Chatbot with Memory
+
+Tech: Transformers, LangChain, FastAPI
+
+Documents → Embeddings → Vector Search → LLM Response
+
+Added conversation memory and context persistence
+
+API deployed using FastAPI
+
+
+
+🖼️ 3. Deep Learning Image Classifier
+
+Tech: TensorFlow/PyTorch
+
+Used transfer learning (ResNet / MobileNet)
+
+Tuned hyperparameters and built evaluation dashboards
+
+Packaged trained model for deployment
+
+
+🧩 4. Reinforcement Learning Agents
+
+Tech: Python, Gymnasium
+
+Implemented Q-Learning, SARSA, Policy Gradient
+
+Trained agents on CartPole, MountainCar
+
+Plotted reward curves & state transitions
+
+
+🔧 5. End-to-End ML Pipeline API
+
+Tech: scikit-learn, FastAPI, Docker
+
+Full ML lifecycle: preprocess → train → predict
+
+Built a REST API for real-time inference
+
+Dockerized for easy deployment
+
+🎯 Current Research Interests
+
+Multi-Agent Reasoning Systems
+
+Autonomous LLM Agents
+
+RAG + Memory Driven LLM Apps
+
+Explainable AI & AI Automation
+
+Deep Learning Vision Models
+
+🤝 Open To Opportunities In
+
+AI Engineer
+
+Machine Learning Engineer
+
+LLM/Agent Systems
+
+Applied AI Projects
+
+Research Collaboration
+
+📬 Contact
+
+📧 rajaganaa@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/raja-ganapathy-36b00658/
