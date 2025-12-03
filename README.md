@@ -1,159 +1,149 @@
-⚡ Rajaganapathy M
-AI Engineer | ML Engineer | LLM/Agent Engineer | M.Tech Artificial Intelligence (SRM University)
+🚀 Rajaganapathy M
+AI Engineer | ML Engineer | LLM/Agent Engineer
 
-Agentic AI • LLMs • RAG Systems • Machine Learning • Deep Learning • NLP • RL • Computer Vision
+M.Tech Artificial Intelligence – SRM University (2024–2026)
+LLMs • Agentic AI • Multi-Agent Systems • RAG • ML • Deep Learning • NLP • RL • Computer Vision
 
-🌐 About Me
+🌟 About Me
 
-Passionate AI Engineer transitioning from 9+ years of engineering experience into advanced AI system development.
-I specialize in designing intelligent, autonomous systems using:
+I’m an AI Engineer passionate about building intelligent, autonomous AI systems that combine
+LLMs + Agents + RAG + Automation to solve real-world problems.
 
-LLMs (GPT/Gemini/HF Models)
+After 9+ years in engineering, I transitioned into the AI domain and now focus on:
 
-Agentic AI (Multi-Agent Architectures)
+🧠 LLMs (GPT, Gemini, HF Models)
 
-RAG Pipelines (FAISS, Embeddings, Knowledge Retrieval)
+🤖 Agentic AI & Multi-Agent Systems
 
-Reinforcement Learning & Deep Learning
+🔍 RAG Pipelines (FAISS, Embeddings, Vector DBs)
 
-AI Automation & Tool-Use Systems
+📘 Deep Learning & NLP
 
-Currently pursuing M.Tech in Artificial Intelligence, focusing on building scalable AI solutions that bridge LLMs + Agents + Automation for real-world impact.
+➿ Reinforcement Learning (Q-Learning, Policy Gradients)
 
-🧠 Core Expertise
-⚙️ AI Engineering
+⚙️ AI Automation & Tool-Use Systems
 
-LLM Integration (OpenAI, Gemini, HuggingFace)
+Currently pursuing M.Tech in AI, specializing in enterprise-grade AI agents capable of reasoning, planning, tool usage, and autonomous execution.
 
-Multi-Agent Frameworks (LangChain Agents)
+🧰 Tech Stack
+Languages
 
-RAG Architecture (Vector DBs, Retrieval Pipelines)
+Python
 
-Prompt Engineering & Structured Reasoning
+SQL
 
-📊 Machine Learning
+LLMs, NLP & Agents
 
-Regression, Classification, XGBoost, Random Forest
+HuggingFace Transformers
 
-Feature Engineering, Model Evaluation
+LangChain (Agents, RAG, Tools)
 
-Real-world ML Deployment (FastAPI)
+OpenAI API / Gemini API
 
-🧬 Deep Learning
+FAISS / Vector DBs
 
-CNNs, RNN/LSTM, Transformers
+Machine Learning
 
-Image & Text Models
+scikit-learn
 
-PyTorch, TensorFlow
+XGBoost, Random Forest
 
-🧩 NLP & Text Analytics
+Feature Engineering & Model Evaluation
 
-Tokenizers, Embeddings, TF-IDF
+Deep Learning
 
-Sentiment Analysis, Classification
+TensorFlow
 
-Sequence Models
+PyTorch
 
-🧠 Reinforcement Learning
+CNN, RNN/LSTM, Transformers
 
-MDPs, Value Functions
+Software & DevOps
 
-Q-Learning, SARSA, Policy Gradients
+FastAPI
 
-Gymnasium Environments
+Docker
 
-🛠️ Tech Stack
+Git & GitHub
 
-Languages: Python, SQL
-Frameworks: PyTorch, TensorFlow, LangChain, scikit-learn
-LLM Tools: Transformers, OpenAI API, FAISS
-DevOps / Deployment: FastAPI, Docker, GitHub, Linux
-Other: OpenCV, Pandas, NumPy
+Linux
 
-🚀 Featured Projects
-🔥 1. Agentic Multi-Agent Automation System
+VS Code
 
-Tech: LangChain Agents, OpenAI/GPT, FAISS, Python
+🧩 Projects
+🔹 1. Agentic AI Multi-Agent System (M.Tech Project)
 
-Designed a 4-agent orchestration system (Planner → Retriever → Executor → Evaluator)
+Tech: LangChain Agents, GPT, FAISS, Python
 
-Integrated memory, embeddings, and tool-use for automated workflows
+Planner → Retriever → Executor → Evaluator architecture
 
-Supports task decomposition, reasoning traces, and knowledge retrieval
+Autonomous task reasoning + memory + tool use
 
-Built for enterprise-level automation
+Built-in knowledge retrieval using embeddings + vector DB
 
+Designed for real-world workflow automation
 
-🧠 2. RAG-Based LLM Chatbot with Memory
+🔹 2. RAG Chatbot with Memory
 
-Tech: Transformers, LangChain, FastAPI
+Tech: LangChain, Transformers, FastAPI
 
-Documents → Embeddings → Vector Search → LLM Response
+Document ingestion → Embedding → Vector Search → LLM Output
 
-Added conversation memory and context persistence
+Added conversation memory + context tracking
 
-API deployed using FastAPI
+REST API deployment
 
-
-
-🖼️ 3. Deep Learning Image Classifier
+🔹 3. Deep Learning Image Classifier
 
 Tech: TensorFlow/PyTorch
 
-Used transfer learning (ResNet / MobileNet)
+Transfer learning with ResNet/MobileNet
 
-Tuned hyperparameters and built evaluation dashboards
+Classification dashboard + confusion matrices
 
-Packaged trained model for deployment
+Exported deployable model
 
-
-🧩 4. Reinforcement Learning Agents
+🔹 4. Reinforcement Learning Agent
 
 Tech: Python, Gymnasium
 
-Implemented Q-Learning, SARSA, Policy Gradient
+Q-Learning, SARSA, Policy Gradient
 
-Trained agents on CartPole, MountainCar
+CartPole & MountainCar environments
 
-Plotted reward curves & state transitions
+Reward plots + training summary
 
-
-🔧 5. End-to-End ML Pipeline API
+🔹 5. End-to-End ML Pipeline API
 
 Tech: scikit-learn, FastAPI, Docker
 
-Full ML lifecycle: preprocess → train → predict
+Data cleaning → Model training → Inference API
 
-Built a REST API for real-time inference
+Dockerized for production-ready serving
 
-Dockerized for easy deployment
+🎯 Current Focus
 
-🎯 Current Research Interests
+Multi-Agent Architectures
 
-Multi-Agent Reasoning Systems
+RAG + Memory Systems
 
-Autonomous LLM Agents
+LLM Automation & Orchestration
 
-RAG + Memory Driven LLM Apps
+Reasoning-Based AI Agents
 
-Explainable AI & AI Automation
+Applied ML/DL for real-world workflows
 
-Deep Learning Vision Models
+🤝 Open To
 
-🤝 Open To Opportunities In
+AI/ML Engineer Intern/Full-Time
 
-AI Engineer
+LLM/Agentic AI roles
 
-Machine Learning Engineer
+AI Product Building
 
-LLM/Agent Systems
+Research Collaborations
 
-Applied AI Projects
-
-Research Collaboration
-
-📬 Contact
+📬 Connect
 
 📧 rajaganaa@gmail.com
 
