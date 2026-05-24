@@ -1,4 +1,4 @@
-👋 Rajaganapathy M
+##👋 Rajaganapathy M
 
 **AI/ML Engineer | LLM Architect | Agentic AI | Patent Filed | IEEE Paper Submitted**
 
