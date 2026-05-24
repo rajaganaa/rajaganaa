@@ -1,10 +1,10 @@
 👋 Rajaganapathy M
 
-AI/ML Engineer | LLM Architect | Agentic AI | Patent Filed | IEEE Paper Submitted
+**AI/ML Engineer | LLM Architect | Agentic AI | Patent Filed | IEEE Paper Submitted**
 
-M.Tech Artificial Intelligence – SRM Institute (Graduated May 2026 | CGPA 9.6/10)
+**M.Tech Artificial Intelligence – SRM Institute (Graduated May 2026 | CGPA 9.6/10)
 IITM Pravartak Certified AI & ML Program – GUVI / IIT Madras / NASSCOM (Nov 2023 – Nov 2024 | 1 Year | 7 Capstone Projects)
-9+ Years Prior Engineering | Chennai → Open to Bangalore / Hyderabad
+9+ Years Prior Engineering | Chennai → Open to Bangalore / Hyderabad**
 
 ---
 
