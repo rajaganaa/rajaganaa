@@ -1,15 +1,17 @@
-# 👋 Rajaganapathy M
-### AI/ML Engineer | LLM Architect | Agentic AI | Patent Filed | IEEE Paper Submitted
+👋 Rajaganapathy M
 
-**M.Tech Artificial Intelligence – SRM Institute (Graduated May 2026 | CGPA 9.6/10)**  
-**9+ Years Prior Engineering | Chennai → Open to Bangalore / Hyderabad**
+AI/ML Engineer | LLM Architect | Agentic AI | Patent Filed | IEEE Paper Submitted
+
+M.Tech Artificial Intelligence – SRM Institute (Graduated May 2026 | CGPA 9.6/10)
+IITM Pravartak Certified AI & ML Program – GUVI / IIT Madras / NASSCOM (Nov 2023 – Nov 2024 | 1 Year | 7 Capstone Projects)
+9+ Years Prior Engineering | Chennai → Open to Bangalore / Hyderabad
 
 ---
 
 ## ⚡ Who I Am
 
-I quit a 9-year engineering career in 2023 to go all-in on AI.  
-In 900 days I filed a patent, submitted an IEEE paper, graduated with 9.6 CGPA,  
+I quit a 9-year engineering career in 2023 to go all-in on AI.
+In 900 days I filed a patent, submitted an IEEE paper, graduated with 9.6 CGPA,
 deployed live AI products on Azure, and published 3 models on HuggingFace.
 
 > *The same discipline that kept 500 kVA transformers running is in every line of AI code I write.*
@@ -24,6 +26,7 @@ deployed live AI products on Azure, and published 3 models on HuggingFace.
 | 📄 **IEEE Paper Submitted** | SRM Institute 2026 — Google Scholar Indexed |
 | 🆔 **ORCID Registered** | 0009-0006-9701-7942 |
 | 🎓 **M.Tech AI — Graduated** | CGPA 9.6/10 — SRM Institute — May 2026 |
+| 📘 **IITM Pravartak AI & ML** | GUVI / IIT Madras / NASSCOM — 1 Year — 7 Capstone Projects |
 | 🤗 **3 Live HuggingFace Models** | LLM + VLM from scratch + CodeLlama fine-tune |
 | 🌐 **Chromium Browser Built** | 26,000 build steps + LLaMA 3.3 70B — from source |
 | ☁️ **Azure Live Deployment** | Medical AI with CI/CD pipeline |
@@ -32,48 +35,44 @@ deployed live AI products on Azure, and published 3 models on HuggingFace.
 | ✅ **100% Attendance** | All 4 M.Tech semesters |
 
 ---
----
 
 ## 🎓 Education & Training
 
 | Program | Institution | Period | Status |
 |---|---|---|---|
 | M.Tech — Artificial Intelligence | SRM Institute of Science & Technology | 2024 – May 2026 | ✅ Graduated · CGPA 9.6/10 |
-| **IITM Pravartak Certified AI & ML Program** | **GUVI Geek Networks (IIT Madras Incubated) + NASSCOM + Google for Education** | **Nov 2023 – Nov 2024** | **✅ Certified** |
+| **IITM Pravartak Certified AI & ML Program** | **GUVI (IIT Madras Incubated) + NASSCOM + Google for Education** | **Nov 2023 – Nov 2024** | **✅ Certified** |
 | B.E — Electrical & Electronics Engineering | Thangavelu Engineering College, Chennai | 2009 – 2013 | ✅ Completed |
 
-### 🧪 GUVI / IIT Madras Pravartak — 1 Year AI & ML (What This Really Was)
-- 💰 Paid program (₹1 Lakh) — live weekend classes, not self-paced videos
-- 👨‍🏫 Taught by IIT-Ropar PhDs + Data Scientists from Freshworks, BOSCH, Credit Suisse
-- 📦 18 modules: Python → SQL → ML → Deep Learning → NLP → Transformers → LLMs → Prompt Engineering
-- 🏗️ 7 Capstone Projects with individual mentor sign-off before certificate issued
-- 🏅 Cert ID: Xd67z1F22po7eP2299 | IIT Pravartak Cert: DSA06169819
+> 💡 GUVI program: ₹1 Lakh paid · Live weekend classes · IIT-Ropar PhD faculty · 18 modules · 7 capstone projects with mentor sign-off · Cert ID: Xd67z1F22po7eP2299
+
+---
 
 ## 🧠 Tech Stack
 
-**Generative AI / LLMs**  
-`LLM Orchestration` `RAG` `FAISS` `Prompt Engineering` `Agentic Workflows`  
+**Generative AI / LLMs**
+`LLM Orchestration` `RAG` `FAISS` `Prompt Engineering` `Agentic Workflows`
 `LangChain` `HuggingFace` `QLoRA` `PEFT` `LoRA` `SFTTrainer` `bitsandbytes`
 
-**Deep Learning**  
+**Deep Learning**
 `PyTorch` `TensorFlow` `Transformers` `BLIP-3` `CLIP` `ViT` `Qwen` `CodeLlama` `TinyLLaMA`
 
-**Machine Learning**  
+**Machine Learning**
 `scikit-learn` `XGBoost` `Gradient Boosting` `K-Means` `TF-IDF` `SMOTE` `statsmodels`
 
-**NLP**  
+**NLP**
 `NLTK` `TextBlob` `Lemmatization` `POS Tagging` `Sentiment Analysis` `NER`
 
-**Computer Vision**  
+**Computer Vision**
 `OpenCV` `CLIP (OpenAI)` `BLIP (Salesforce)` `PyTorch Vision`
 
-**Cloud**  
+**Cloud**
 `AWS SageMaker` `Azure OpenAI` `GCP Vertex AI` `S3` `EC2`
 
-**DevOps / MLOps**  
+**DevOps / MLOps**
 `Docker` `GitHub Actions` `Linux` `Bash` `FastAPI` `Streamlit` `Vercel`
 
-**Data Engineering**  
+**Data Engineering**
 `pandas` `NumPy` `MySQL` `MongoDB` `ETL Pipelines` `YouTube API` `SQLAlchemy`
 
 ---
@@ -83,86 +82,86 @@ deployed live AI products on Azure, and published 3 models on HuggingFace.
 ### ⭐ P.001 — Antahkarana Reasoning Framework (FLAGSHIP)
 > Patent Filed · IEEE Submitted · Azure Deployed · 2,500+ Validated Samples
 
-Cognitively-inspired adaptive reasoning for LLMs and VLMs — inspired by Vedantic architecture.  
-Routes queries through 4 stages: manas → buddhi → chitta → ahamkara.  
-`Python` `Qwen 0.5` `BLIP-3` `LangChain` `FAISS` `Azure` `Apache 2.0`  
+Cognitively-inspired adaptive reasoning for LLMs and VLMs — inspired by Vedantic architecture.
+Routes queries through 4 stages: manas → buddhi → chitta → ahamkara.
+`Python` `Qwen 0.5` `BLIP-3` `LangChain` `FAISS` `Azure` `Apache 2.0`
 🔗 [Live Demo](https://rajaganaa.github.io/antahkarana-frontend/) | [GitHub](https://github.com/rajaganaa/antahkarana-reasoning-framework) | [Scholar](https://scholar.google.com/citations?user=93hagOEAAAAJ)
 
 ---
 
 ### P.002 — Antahkarana Medical AI (Live on Azure)
-Full-stack multimodal medical assistant. Azure deployment with GitHub Actions CI/CD.  
-`LangChain` `Azure OpenAI` `Streamlit` `FastAPI` `GitHub Actions`  
+Full-stack multimodal medical assistant. Azure deployment with GitHub Actions CI/CD.
+`LangChain` `Azure OpenAI` `Streamlit` `FastAPI` `GitHub Actions`
 🔗 [GitHub](https://github.com/rajaganaa/antahkarana-product)
 
 ---
 
 ### P.003 — MML Smart Campus Security
-AI surveillance using CLIP + BLIP + Voice Biometrics. Replaces manual CCTV monitoring.  
-`OpenAI CLIP` `Salesforce BLIP` `PyTorch` `OpenCV`  
+AI surveillance using CLIP + BLIP + Voice Biometrics. Replaces manual CCTV monitoring.
+`OpenAI CLIP` `Salesforce BLIP` `PyTorch` `OpenCV`
 🔗 [GitHub](https://github.com/rajaganaa/MML_smart_campus_security_system)
 
 ---
 
 ### P.004 — AgentNet Enterprise Support (Multi-Agent)
-Self-correcting multi-agent system with LLM-as-Judge quality grading loop.  
-`LangChain` `FAISS` `Vertex AI` `Custom trace logging`  
+Self-correcting multi-agent system with LLM-as-Judge quality grading loop.
+`LangChain` `FAISS` `Vertex AI` `Custom trace logging`
 🔗 [GitHub](https://github.com/rajaganaa/AgentNet-Enterprise-Support)
 
 ---
 
 ### P.005 — Hospital Readmission Risk Predictor
-Two-stage ML: 95% A1C imputation + XGBoost 30-day readmission classifier. Targets $41B problem.  
-`XGBoost` `scikit-learn` `SMOTETomek` `Streamlit`  
+Two-stage ML: 95% A1C imputation + XGBoost 30-day readmission classifier. Targets $41B problem.
+`XGBoost` `scikit-learn` `SMOTETomek` `Streamlit`
 🔗 [GitHub](https://github.com/rajaganaa/Hospital-Readmission-Predictor)
 
 ---
 
 ### P.006 — YouTube Data ETL Pipeline
-Full ETL: YouTube API → pandas → MySQL warehouse → Streamlit analytics dashboard.  
-`Python` `SQL` `MySQL` `YouTube API v3` `pandas`  
+Full ETL: YouTube API → pandas → MySQL warehouse → Streamlit analytics dashboard.
+`Python` `SQL` `MySQL` `YouTube API v3` `pandas`
 🔗 [GitHub](https://github.com/rajaganaa/YouTube-Data-ETL-Pipeline)
 
 ---
 
 ### P.007 — Industrial HR Geo-Visualization Dashboard
-TF-IDF + K-Means NLP clustering of census data → choropleth workforce maps.  
-`scikit-learn` `NLTK` `Plotly` `Folium` `Streamlit`  
+TF-IDF + K-Means NLP clustering of census data → choropleth workforce maps.
+`scikit-learn` `NLTK` `Plotly` `Folium` `Streamlit`
 🔗 [GitHub](https://github.com/rajaganaa/Industrial-HR-Geo-Dashboard)
 
 ---
 
 ### P.008 — PhonePe Transaction Visualizer
-ETL of PhonePe Pulse GeoJSON → 9-table MySQL → Streamlit choropleth BI dashboard.  
-`Python` `MySQL` `Plotly` `Streamlit`  
+ETL of PhonePe Pulse GeoJSON → 9-table MySQL → Streamlit choropleth BI dashboard.
+`Python` `MySQL` `Plotly` `Streamlit`
 🔗 [GitHub](https://github.com/rajaganaa/PhonePe-Transaction-Visualizer)
 
 ---
 
 ### P.009 — TinyLLaMA & Mini-VLM (Built from Scratch in 1 Day)
-LLM loss 8.9→0.33. VLM loss 17→1.17. LoRA fine-tune loss 1.6→1.01. ~$10 compute. Live on HuggingFace.  
-`PyTorch` `Transformers` `LoRA` `HuggingFace Hub`  
+LLM loss 8.9→0.33. VLM loss 17→1.17. LoRA fine-tune loss 1.6→1.01. ~$10 compute. Live on HuggingFace.
+`PyTorch` `Transformers` `LoRA` `HuggingFace Hub`
 🤗 [LLM Model](https://huggingface.co/RajGana/tinyllama-alpaca-finetuned) | [VLM Model](https://huggingface.co/RajGana/mini-vlm-scratch)
 
 ---
 
 ### P.010 — Conscious AI Browser (Chromium Source Build)
-26,000 build steps from Chromium source on GCP. LLaMA 3.3 70B AI sidebar. Linux .deb installer.  
-`Chromium` `LLaMA 3.3 70B` `Linux` `GCP` `Vercel`  
+26,000 build steps from Chromium source on GCP. LLaMA 3.3 70B AI sidebar. Linux .deb installer.
+`Chromium` `LLaMA 3.3 70B` `Linux` `GCP` `Vercel`
 🔗 [Live Demo](https://conscious-ai-webapp.vercel.app) | [GitHub](https://github.com/rajaganaa/conscious-ai-browser)
 
 ---
 
 ### P.011 — CodeLlama Coding Assistant (AWS SageMaker Fine-tune)
-QLoRA 4-bit fine-tune of CodeLlama-7B on CodeAlpaca-20K. 60% GPU memory saving. Live Gradio demo.  
-`CodeLlama-7B` `QLoRA` `AWS SageMaker` `Groq API` `HuggingFace Spaces` `FastAPI`  
+QLoRA 4-bit fine-tune of CodeLlama-7B on CodeAlpaca-20K. 60% GPU memory saving. Live Gradio demo.
+`CodeLlama-7B` `QLoRA` `AWS SageMaker` `Groq API` `HuggingFace Spaces` `FastAPI`
 🔗 [Live Demo](https://huggingface.co/spaces/RajGana/codellama-demo) | [Model](https://huggingface.co/RajGana/codellama-coding-assistant)
 
 ---
 
 ### P.012 — Healthcare Review NLP Sentiment Engine
-TextBlob + TF-IDF + SMOTE ensemble — automated patient feedback classification pipeline.  
-`NLTK` `TextBlob` `scikit-learn` `imbalanced-learn` `Plotly`  
+TextBlob + TF-IDF + SMOTE ensemble — automated patient feedback classification pipeline.
+`NLTK` `TextBlob` `scikit-learn` `imbalanced-learn` `Plotly`
 🔗 [GitHub](https://github.com/rajaganaa/Healthcare-Review-NLP)
 
 ---
@@ -173,7 +172,7 @@ TextBlob + TF-IDF + SMOTE ensemble — automated patient feedback classification
 |---|---|---|
 | AWS Solutions Architect Associate | Udemy (Stephane Maarek) | Oct 2025 |
 | DevOps Beginners to Advanced | Udemy (Imran Teli) | Jul 2025 |
-| AI & ML Professional Program | GUVI / IIT-M Pravartak / NASSCOM | May 2024 |
+| **AI & ML Professional Program** | **GUVI / IIT-M Pravartak / NASSCOM** | **Nov 2023 – Nov 2024** |
 | **NPTEL IoT — Top 5% (86%)** | **IIT Kharagpur / SWAYAM** | **Oct 2025** |
 | 5-Day AI Agents Intensive | Kaggle + Google | Dec 2025 |
 | Advanced Python / R / SQL | GUVI / IIT Madras | 2024 |
@@ -199,8 +198,8 @@ TextBlob + TF-IDF + SMOTE ensemble — automated patient feedback classification
 
 ## 🤝 Open To
 
-✅ AI/ML Engineer | LLM Engineer | Agentic AI Engineer  
-✅ Data Scientist | MLOps Engineer | NLP Engineer  
-✅ AI Scientist | Research Engineer  
-✅ Chennai / Bangalore / Hyderabad / Remote  
+✅ AI/ML Engineer | LLM Engineer | Agentic AI Engineer
+✅ Data Scientist | MLOps Engineer | NLP Engineer
+✅ AI Scientist | Research Engineer
+✅ Chennai / Bangalore / Hyderabad / Remote
 ✅ **Immediate Joiner — No Notice Period**
