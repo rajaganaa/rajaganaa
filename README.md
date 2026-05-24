@@ -1,150 +1,190 @@
-🚀 Rajaganapathy M
-AI Engineer | ML Engineer | LLM/Agent Engineer
+# 👋 Rajaganapathy M
+### AI/ML Engineer | LLM Architect | Agentic AI | Patent Filed | IEEE Paper Submitted
 
-M.Tech Artificial Intelligence – SRM University (2024–2026)
-LLMs • Agentic AI • Multi-Agent Systems • RAG • ML • Deep Learning • NLP • RL • Computer Vision
+**M.Tech Artificial Intelligence – SRM Institute (Graduated May 2026 | CGPA 9.6/10)**  
+**9+ Years Prior Engineering | Chennai → Open to Bangalore / Hyderabad**
 
-🌟 About Me
+---
 
-I’m an AI Engineer passionate about building intelligent, autonomous AI systems that combine
-LLMs + Agents + RAG + Automation to solve real-world problems.
+## ⚡ Who I Am
 
-After 9+ years in engineering, I transitioned into the AI domain and now focus on:
+I quit a 9-year engineering career in 2023 to go all-in on AI.  
+In 900 days I filed a patent, submitted an IEEE paper, graduated with 9.6 CGPA,  
+deployed live AI products on Azure, and published 3 models on HuggingFace.
 
-🧠 LLMs (GPT, Gemini, HF Models)
+> *The same discipline that kept 500 kVA transformers running is in every line of AI code I write.*
 
-🤖 Agentic AI & Multi-Agent Systems
+---
 
-🔍 RAG Pipelines (FAISS, Embeddings, Vector DBs)
+## 🏆 Key Achievements
 
-📘 Deep Learning & NLP
+| Achievement | Details |
+|---|---|
+| 🇮🇳 **Indian Patent Filed** | App No. 202641043947 — Antahkarana Reasoning System |
+| 📄 **IEEE Paper Submitted** | SRM Institute 2026 — Google Scholar Indexed |
+| 🆔 **ORCID Registered** | 0009-0006-9701-7942 |
+| 🎓 **M.Tech AI — Graduated** | CGPA 9.6/10 — SRM Institute — May 2026 |
+| 🤗 **3 Live HuggingFace Models** | LLM + VLM from scratch + CodeLlama fine-tune |
+| 🌐 **Chromium Browser Built** | 26,000 build steps + LLaMA 3.3 70B — from source |
+| ☁️ **Azure Live Deployment** | Medical AI with CI/CD pipeline |
+| 🏅 **NPTEL Top 5%** | IoT — 86% score — out of 50,282 candidates |
+| 🥈 **Hackathon 6th Place** | SRM Platform — out of 195 participants |
+| ✅ **100% Attendance** | All 4 M.Tech semesters |
 
-➿ Reinforcement Learning (Q-Learning, Policy Gradients)
+---
 
-⚙️ AI Automation & Tool-Use Systems
+## 🧠 Tech Stack
 
-Currently pursuing M.Tech in AI, specializing in enterprise-grade AI agents capable of reasoning, planning, tool usage, and autonomous execution.
+**Generative AI / LLMs**  
+`LLM Orchestration` `RAG` `FAISS` `Prompt Engineering` `Agentic Workflows`  
+`LangChain` `HuggingFace` `QLoRA` `PEFT` `LoRA` `SFTTrainer` `bitsandbytes`
 
-🧰 Tech Stack
-Languages
+**Deep Learning**  
+`PyTorch` `TensorFlow` `Transformers` `BLIP-3` `CLIP` `ViT` `Qwen` `CodeLlama` `TinyLLaMA`
 
-Python
+**Machine Learning**  
+`scikit-learn` `XGBoost` `Gradient Boosting` `K-Means` `TF-IDF` `SMOTE` `statsmodels`
 
-SQL
+**NLP**  
+`NLTK` `TextBlob` `Lemmatization` `POS Tagging` `Sentiment Analysis` `NER`
 
-LLMs, NLP & Agents
+**Computer Vision**  
+`OpenCV` `CLIP (OpenAI)` `BLIP (Salesforce)` `PyTorch Vision`
 
-HuggingFace Transformers
+**Cloud**  
+`AWS SageMaker` `Azure OpenAI` `GCP Vertex AI` `S3` `EC2`
 
-LangChain (Agents, RAG, Tools)
+**DevOps / MLOps**  
+`Docker` `GitHub Actions` `Linux` `Bash` `FastAPI` `Streamlit` `Vercel`
 
-OpenAI API / Gemini API
+**Data Engineering**  
+`pandas` `NumPy` `MySQL` `MongoDB` `ETL Pipelines` `YouTube API` `SQLAlchemy`
 
-FAISS / Vector DBs
+---
 
-Machine Learning
+## 🚀 Projects
 
-scikit-learn
+### ⭐ P.001 — Antahkarana Reasoning Framework (FLAGSHIP)
+> Patent Filed · IEEE Submitted · Azure Deployed · 2,500+ Validated Samples
 
-XGBoost, Random Forest
+Cognitively-inspired adaptive reasoning for LLMs and VLMs — inspired by Vedantic architecture.  
+Routes queries through 4 stages: manas → buddhi → chitta → ahamkara.  
+`Python` `Qwen 0.5` `BLIP-3` `LangChain` `FAISS` `Azure` `Apache 2.0`  
+🔗 [Live Demo](https://rajaganaa.github.io/antahkarana-frontend/) | [GitHub](https://github.com/rajaganaa/antahkarana-reasoning-framework) | [Scholar](https://scholar.google.com/citations?user=93hagOEAAAAJ)
 
-Feature Engineering & Model Evaluation
+---
 
-Deep Learning
+### P.002 — Antahkarana Medical AI (Live on Azure)
+Full-stack multimodal medical assistant. Azure deployment with GitHub Actions CI/CD.  
+`LangChain` `Azure OpenAI` `Streamlit` `FastAPI` `GitHub Actions`  
+🔗 [GitHub](https://github.com/rajaganaa/antahkarana-product)
 
-TensorFlow
+---
 
-PyTorch
+### P.003 — MML Smart Campus Security
+AI surveillance using CLIP + BLIP + Voice Biometrics. Replaces manual CCTV monitoring.  
+`OpenAI CLIP` `Salesforce BLIP` `PyTorch` `OpenCV`  
+🔗 [GitHub](https://github.com/rajaganaa/MML_smart_campus_security_system)
 
-CNN, RNN/LSTM, Transformers
+---
 
-Software & DevOps
+### P.004 — AgentNet Enterprise Support (Multi-Agent)
+Self-correcting multi-agent system with LLM-as-Judge quality grading loop.  
+`LangChain` `FAISS` `Vertex AI` `Custom trace logging`  
+🔗 [GitHub](https://github.com/rajaganaa/AgentNet-Enterprise-Support)
 
-FastAPI
+---
 
-Docker
+### P.005 — Hospital Readmission Risk Predictor
+Two-stage ML: 95% A1C imputation + XGBoost 30-day readmission classifier. Targets $41B problem.  
+`XGBoost` `scikit-learn` `SMOTETomek` `Streamlit`  
+🔗 [GitHub](https://github.com/rajaganaa/Hospital-Readmission-Predictor)
 
-Git & GitHub
+---
 
-Linux
+### P.006 — YouTube Data ETL Pipeline
+Full ETL: YouTube API → pandas → MySQL warehouse → Streamlit analytics dashboard.  
+`Python` `SQL` `MySQL` `YouTube API v3` `pandas`  
+🔗 [GitHub](https://github.com/rajaganaa/YouTube-Data-ETL-Pipeline)
 
-VS Code
+---
 
-🧩 Projects
-🔹 1. Agentic AI Multi-Agent System (M.Tech Project)
+### P.007 — Industrial HR Geo-Visualization Dashboard
+TF-IDF + K-Means NLP clustering of census data → choropleth workforce maps.  
+`scikit-learn` `NLTK` `Plotly` `Folium` `Streamlit`  
+🔗 [GitHub](https://github.com/rajaganaa/Industrial-HR-Geo-Dashboard)
 
-Tech: LangChain Agents, GPT, FAISS, Python
+---
 
-Planner → Retriever → Executor → Evaluator architecture
+### P.008 — PhonePe Transaction Visualizer
+ETL of PhonePe Pulse GeoJSON → 9-table MySQL → Streamlit choropleth BI dashboard.  
+`Python` `MySQL` `Plotly` `Streamlit`  
+🔗 [GitHub](https://github.com/rajaganaa/PhonePe-Transaction-Visualizer)
 
-Autonomous task reasoning + memory + tool use
+---
 
-Built-in knowledge retrieval using embeddings + vector DB
+### P.009 — TinyLLaMA & Mini-VLM (Built from Scratch in 1 Day)
+LLM loss 8.9→0.33. VLM loss 17→1.17. LoRA fine-tune loss 1.6→1.01. ~$10 compute. Live on HuggingFace.  
+`PyTorch` `Transformers` `LoRA` `HuggingFace Hub`  
+🤗 [LLM Model](https://huggingface.co/RajGana/tinyllama-alpaca-finetuned) | [VLM Model](https://huggingface.co/RajGana/mini-vlm-scratch)
 
-Designed for real-world workflow automation
+---
 
-🔹 2. RAG Chatbot with Memory
+### P.010 — Conscious AI Browser (Chromium Source Build)
+26,000 build steps from Chromium source on GCP. LLaMA 3.3 70B AI sidebar. Linux .deb installer.  
+`Chromium` `LLaMA 3.3 70B` `Linux` `GCP` `Vercel`  
+🔗 [Live Demo](https://conscious-ai-webapp.vercel.app) | [GitHub](https://github.com/rajaganaa/conscious-ai-browser)
 
-Tech: LangChain, Transformers, FastAPI
+---
 
-Document ingestion → Embedding → Vector Search → LLM Output
+### P.011 — CodeLlama Coding Assistant (AWS SageMaker Fine-tune)
+QLoRA 4-bit fine-tune of CodeLlama-7B on CodeAlpaca-20K. 60% GPU memory saving. Live Gradio demo.  
+`CodeLlama-7B` `QLoRA` `AWS SageMaker` `Groq API` `HuggingFace Spaces` `FastAPI`  
+🔗 [Live Demo](https://huggingface.co/spaces/RajGana/codellama-demo) | [Model](https://huggingface.co/RajGana/codellama-coding-assistant)
 
-Added conversation memory + context tracking
+---
 
-REST API deployment
+### P.012 — Healthcare Review NLP Sentiment Engine
+TextBlob + TF-IDF + SMOTE ensemble — automated patient feedback classification pipeline.  
+`NLTK` `TextBlob` `scikit-learn` `imbalanced-learn` `Plotly`  
+🔗 [GitHub](https://github.com/rajaganaa/Healthcare-Review-NLP)
 
-🔹 3. Deep Learning Image Classifier
+---
 
-Tech: TensorFlow/PyTorch
+## 📜 Certifications (Selected)
 
-Transfer learning with ResNet/MobileNet
+| Certificate | Platform | Date |
+|---|---|---|
+| AWS Solutions Architect Associate | Udemy (Stephane Maarek) | Oct 2025 |
+| DevOps Beginners to Advanced | Udemy (Imran Teli) | Jul 2025 |
+| AI & ML Professional Program | GUVI / IIT-M Pravartak / NASSCOM | May 2024 |
+| **NPTEL IoT — Top 5% (86%)** | **IIT Kharagpur / SWAYAM** | **Oct 2025** |
+| 5-Day AI Agents Intensive | Kaggle + Google | Dec 2025 |
+| Advanced Python / R / SQL | GUVI / IIT Madras | 2024 |
+| PyTorch · TensorFlow · DSA | Simplilearn SkillUP | Nov–Dec 2024 |
+| OpenCV Certification | OpenCV University | Mar 2025 |
 
-Classification dashboard + confusion matrices
+---
 
-Exported deployable model
+## 🔗 Links
 
-🔹 4. Reinforcement Learning Agent
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [rajaganaa.github.io](https://rajaganaa.github.io) |
+| 🤗 HuggingFace | [huggingface.co/RajGana](https://huggingface.co/RajGana) |
+| 🆔 ORCID | [0009-0006-9701-7942](https://orcid.org/0009-0006-9701-7942) |
+| 📚 Google Scholar | [Raja Ganapathy M](https://scholar.google.com/citations?user=93hagOEAAAAJ) |
+| in LinkedIn | [raja-ganapathy-36b00658](https://www.linkedin.com/in/raja-ganapathy-36b00658) |
+| ▶ YouTube | [@rajaganaaAI](https://youtube.com/@rajaganaaAI) |
+| 📧 Email | rajaganaa@gmail.com |
+| 📍 Location | Chennai · Open to Bangalore / Hyderabad |
 
-Tech: Python, Gymnasium
+---
 
-Q-Learning, SARSA, Policy Gradient
+## 🤝 Open To
 
-CartPole & MountainCar environments
-
-Reward plots + training summary
-
-🔹 5. End-to-End ML Pipeline API
-
-Tech: scikit-learn, FastAPI, Docker
-
-Data cleaning → Model training → Inference API
-
-Dockerized for production-ready serving
-
-🎯 Current Focus
-
-Multi-Agent Architectures
-
-RAG + Memory Systems
-
-LLM Automation & Orchestration
-
-Reasoning-Based AI Agents
-
-Applied ML/DL for real-world workflows
-
-🤝 Open To
-
-AI/ML Engineer Intern/Full-Time
-
-LLM/Agentic AI roles
-
-AI Product Building
-
-Research Collaborations
-
-📬 Connect
-
-📧 rajaganaa@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/raja-ganapathy-36b00658/
+✅ AI/ML Engineer | LLM Engineer | Agentic AI Engineer  
+✅ Data Scientist | MLOps Engineer | NLP Engineer  
+✅ AI Scientist | Research Engineer  
+✅ Chennai / Bangalore / Hyderabad / Remote  
+✅ **Immediate Joiner — No Notice Period**
