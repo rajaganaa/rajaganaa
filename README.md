@@ -32,6 +32,22 @@ deployed live AI products on Azure, and published 3 models on HuggingFace.
 | ✅ **100% Attendance** | All 4 M.Tech semesters |
 
 ---
+---
+
+## 🎓 Education & Training
+
+| Program | Institution | Period | Status |
+|---|---|---|---|
+| M.Tech — Artificial Intelligence | SRM Institute of Science & Technology | 2024 – May 2026 | ✅ Graduated · CGPA 9.6/10 |
+| **IITM Pravartak Certified AI & ML Program** | **GUVI Geek Networks (IIT Madras Incubated) + NASSCOM + Google for Education** | **Nov 2023 – Nov 2024** | **✅ Certified** |
+| B.E — Electrical & Electronics Engineering | Thangavelu Engineering College, Chennai | 2009 – 2013 | ✅ Completed |
+
+### 🧪 GUVI / IIT Madras Pravartak — 1 Year AI & ML (What This Really Was)
+- 💰 Paid program (₹1 Lakh) — live weekend classes, not self-paced videos
+- 👨‍🏫 Taught by IIT-Ropar PhDs + Data Scientists from Freshworks, BOSCH, Credit Suisse
+- 📦 18 modules: Python → SQL → ML → Deep Learning → NLP → Transformers → LLMs → Prompt Engineering
+- 🏗️ 7 Capstone Projects with individual mentor sign-off before certificate issued
+- 🏅 Cert ID: Xd67z1F22po7eP2299 | IIT Pravartak Cert: DSA06169819
 
 ## 🧠 Tech Stack
 
