@@ -10,8 +10,8 @@ IITM Pravartak Certified AI & ML Program – GUVI / IIT Madras / NASSCOM (Nov 20
 
 ## ⚡ Who I Am
 
-I quit a 9-year engineering career in 2023 to go all-in on AI.
-In 900 days I filed a patent, submitted an IEEE paper, graduated with 9.6 CGPA,
+I quit a 9-year engineering career in Jul 2023 to go all-in on AI.
+In 1000 days I filed a patent, submitted an IEEE paper, graduated with 9.6 CGPA,
 deployed live AI products on Azure, and published 3 models on HuggingFace.
 
 > *The same discipline that kept 500 kVA transformers running is in every line of AI code I write.*
