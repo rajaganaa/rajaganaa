@@ -1,123 +1,224 @@
-# Hi, I'm Rajaganapathy M 👋
+# 👋 Hi, I'm Rajaganapathy M
 
-### AI/ML Engineer · LLM & Agentic AI Specialist · Computer Vision
+## Freelance AIML Engineer | LLM Engineer | Agentic AI | Computer Vision
 
-Founder of **AI Vision** (Govt. of India MSME-registered) | Patent Filed | IEEE Paper Submitted | M.Tech AI (CGPA 9.6/10)
-
-📍 Chennai, India — Open to Bangalore, Hyderabad & Remote opportunities
-
----
-
-## About Me
-
-I design and build production-grade AI systems spanning **LLMs, Agentic AI, RAG pipelines, and Computer Vision**, deployed end-to-end on cloud infrastructure.
-
-I founded **AI Vision**, where I deliver AI solutions for healthcare and startup clients — from research prototypes to deployed, monitored production systems.
-
-Before moving into AI, I spent **9+ years as an Electrical CAD Design Engineer** in industrial/constructional projects. That background gives me a strong foundation in engineering discipline, systems thinking, and reliability — qualities I now bring to building robust AI infrastructure.
+🏢 Founder – AI Vision (Government of India MSME Registered)  
+📄 Patent Filed | IEEE Paper Submitted | M.Tech AI (CGPA 9.6/10)  
+💼 2+ Years Freelance AIML Experience | 9+ Years Constructional Electrical CAD Design Engineering  
+📍 Chennai, India | Open to Bangalore • Hyderabad • Remote
 
 ---
 
-## Experience
+## 🚀 About Me
 
-**Founder & Freelance AI Engineer — AI Vision** *(MSME Registered · UDYAM-TN-02-0483528)*
-*2024 – Present*
+I build production-ready AI applications using **LLMs, Agentic AI, RAG, Computer Vision, and Cloud Technologies**.
 
-Building and shipping production AI applications, including:
-- Healthcare AI assistants
-- Agentic AI systems
-- LLM & RAG applications
-- Computer vision solutions
-- Azure cloud deployment, FastAPI backends, Docker & GitHub Actions CI/CD
+Currently working as a **Freelance AIML Engineer** through **AI Vision**, delivering AI solutions for healthcare and startup clients.
 
-**AI Engineer — Startup Collaboration**
-*2026 – Present*
-
-Building spec-driven AI agents using Google ADK, Gemini, multi-agent orchestration, tool calling, memory architecture, and evaluation frameworks.
+Previously worked for **9+ years in Industrial Electrical CAD Design Engineering**, bringing strong engineering discipline, reliability, and systems thinking into AI development.
 
 ---
 
-## Highlights
+## 💼 Professional Experience
 
-- 🇮🇳 Indian patent filed
-- 📄 IEEE conference paper submitted
-- 🎓 M.Tech in Artificial Intelligence — CGPA 9.6/10
-- 🤗 AI models published on Hugging Face
-- ☁️ Production AI systems deployed on Azure
-- 🌐 Chromium browser built from source with an integrated LLM sidebar
+### Founder & Freelance AI Engineer
+**AI Vision (MSME Registered)**
+
+**Udyam Registration No.: UDYAM-TN-02-0483528**
+
+**2024 – Present**
+
+Developing production AI applications including:
+
+- 🏥 Healthcare AI Assistant
+- 🤖 Agentic AI Systems
+- 🧠 LLM & RAG Applications
+- 👁️ Computer Vision Solutions
+- ☁️ Azure Cloud Deployment
+- ⚡ FastAPI Backend Development
+- 🐳 Docker & GitHub Actions CI/CD
+
+---
+
+### AI Engineer (Startup Collaboration)
+
+**2026 – Present**
+
+Currently building **Spec-Driven AI Agents** using:
+
+- Google ADK
+- Gemini
+- Multi-Agent Systems
+- Tool Calling
+- Memory Architecture
+- Planning & Evaluation
+
+---
+
+## 🏆 Highlights
+
+- 🇮🇳 Indian Patent Filed
+- 📄 IEEE Conference Paper Submitted
+- 🎓 M.Tech Artificial Intelligence (CGPA 9.6/10)
+- 🤗 Published AI Models on Hugging Face
+- 🌐 Built Chromium Browser from Source
+- ☁️ Deployed Production AI Systems on Azure
 - 🏅 NPTEL Top 5%
-- 📚 Active Google Scholar author & ORCID researcher
+- 📚 Google Scholar Author
+- 🆔 ORCID Researcher
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 Antahkarana Reasoning Framework
-*Patent Filed · IEEE Paper*
-A cognitively-inspired reasoning framework for LLMs and Vision-Language Models.
-**Stack:** Python, LangChain, BLIP, Qwen, FAISS, Azure
+### 🥇 Antahkarana Reasoning Framework
+Patent Filed • IEEE Paper
+
+A cognitively inspired reasoning framework for LLMs & Vision Language Models.
+
+**Tech:** Python • LangChain • BLIP • Qwen • FAISS • Azure
+
+---
 
 ### 🏥 Anbu Health AI
-A production, multilingual healthcare assistant offering medical report analysis, prescription understanding, medical image analysis, and appointment booking — deployed on Azure.
+
+Production multilingual healthcare assistant featuring:
+
+- Medical Report Analysis
+- Prescription Understanding
+- Medical Image Analysis
+- Appointment Booking
+- Azure Deployment
+
+---
 
 ### 🤖 AgentNet Enterprise
-An enterprise multi-agent AI platform with agent orchestration, LLM-as-a-judge evaluation, RAG, and persistent memory.
+
+Enterprise Multi-Agent AI platform featuring:
+
+- Agent Orchestration
+- LLM-as-a-Judge
+- RAG
+- Memory
+- Evaluation
+
+---
 
 ### 🌐 Conscious AI Browser
-A Chromium browser compiled from source with an integrated LLM sidebar for in-browser AI assistance.
+
+Chromium Browser compiled from source with integrated LLM sidebar.
+
+---
 
 ### 🤗 TinyLLaMA & Mini-VLM
-Custom-built and fine-tuned LLM and Vision-Language models using PyTorch and Hugging Face.
+
+Built and fine-tuned LLM & Vision Language Models using PyTorch and Hugging Face.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Languages:** Python · SQL · Bash
+**Languages**
 
-**AI / ML:** PyTorch · TensorFlow · Scikit-learn · Transformers · Hugging Face
+Python • SQL • Bash
 
-**LLMs & RAG:** LangChain · RAG · FAISS · PEFT · LoRA · QLoRA
+**AI / ML**
 
-**Computer Vision:** OpenCV · CLIP · BLIP · Vision Transformers
+PyTorch • TensorFlow • Scikit-learn • Transformers • Hugging Face
 
-**Backend:** FastAPI · REST APIs · SQLAlchemy
+**LLMs**
 
-**Cloud:** Azure · AWS · GCP
+LangChain • RAG • FAISS • PEFT • LoRA • QLoRA
 
-**DevOps:** Docker · GitHub Actions · Linux
+**Computer Vision**
 
-**Databases:** MySQL · MongoDB · FAISS
+OpenCV • CLIP • BLIP • Vision Transformers
+
+**Backend**
+
+FastAPI • REST API • SQLAlchemy
+
+**Cloud**
+
+Azure • AWS • GCP
+
+**DevOps**
+
+Docker • GitHub Actions • Linux
+
+**Database**
+
+MySQL • MongoDB • FAISS
 
 ---
 
-## Education
+## 🎓 Education
 
-**M.Tech, Artificial Intelligence** — SRM Institute of Science and Technology (CGPA 9.6/10)
+**M.Tech – Artificial Intelligence**
 
-**AI & ML Professional Program** — GUVI · IITM Pravartak · NASSCOM
+SRM Institute of Science and Technology
 
-**B.E., Electrical & Electronics Engineering** — Thangavelu Engineering College
-
----
-
-## Certifications
-
-AWS Solutions Architect · DevOps · NPTEL Top 5% · Google AI Agents · OpenCV University · TensorFlow · PyTorch · GUVI AI & ML Professional
+CGPA **9.6 / 10**
 
 ---
 
-## Connect With Me
+**AI & ML Professional Program**
 
-🌍 Portfolio: [rajaganaa.github.io](https://rajaganaa.github.io)
-💻 GitHub: [@rajaganaa](https://github.com/rajaganaa)
-🤗 Hugging Face: [RajGana](https://huggingface.co/RajGana)
+GUVI • IITM Pravartak • NASSCOM
+
+---
+
+**B.E – Electrical & Electronics Engineering**
+
+Thangavelu Engineering College
+
+---
+
+## 📜 Certifications
+
+- AWS Solutions Architect
+- DevOps
+- NPTEL Top 5%
+- Google AI Agents
+- OpenCV University
+- TensorFlow
+- PyTorch
+- GUVI AI & ML Professional
+
+---
+
+## 🌐 Connect
+
+🌍 Portfolio: https://rajaganaa.github.io
+
+💻 GitHub: https://github.com/rajaganaa
+
+🤗 Hugging Face: https://huggingface.co/RajGana
+
+📚 Google Scholar
+
+🆔 ORCID
+
+💼 LinkedIn
+
 📧 rajaganaa@gmail.com
 
 ---
 
-### Open To
+## 🤝 Open To
 
-`AI Engineer` · `LLM Engineer` · `Agentic AI Engineer` · `Machine Learning Engineer` · `Computer Vision Engineer` · `Generative AI Engineer` · `Research Engineer`
+✔ AI Engineer
 
-**Available to join immediately.**
+✔ LLM Engineer
+
+✔ Agentic AI Engineer
+
+✔ Machine Learning Engineer
+
+✔ Computer Vision Engineer
+
+✔ Generative AI Engineer
+
+✔ Research Engineer
+
+**Immediate Joiner**
