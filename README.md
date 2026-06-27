@@ -186,22 +186,19 @@ Thangavelu Engineering College
 - GUVI AI & ML Professional
 
 ---
+## 🔗 Quick Links
 
-## 🌐 Connect
+🌐 **Portfolio:** https://rajaganaa.github.io
 
-🌍 Portfolio: https://rajaganaa.github.io
+💼 **LinkedIn:** https://www.linkedin.com/in/raja-ganapathy-36b00658
 
-💻 GitHub: https://github.com/rajaganaa
+🤗 **Hugging Face:** https://huggingface.co/RajGana
 
-🤗 Hugging Face: https://huggingface.co/RajGana
+📚 **Google Scholar:** https://scholar.google.com/citations?user=93hagOEAAAAJ
 
-📚 Google Scholar
+🆔 **ORCID:** https://orcid.org/0009-0006-9701-7942
 
-🆔 ORCID
-
-💼 LinkedIn
-
-📧 rajaganaa@gmail.com
+📄 **Resume:** [Download PDF](AIML_RESUME.pdf)
 
 ---
 
