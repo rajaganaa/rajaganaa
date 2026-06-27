@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Rajaganapathy M
 
-## Freelance AI Engineer | LLM Engineer | Agentic AI | Computer Vision
+## Freelance AIML Engineer | LLM Engineer | Agentic AI | Computer Vision
 
 🏢 Founder – AI Vision (Government of India MSME Registered)  
 📄 Patent Filed | IEEE Paper Submitted | M.Tech AI (CGPA 9.6/10)  
-💼 2+ Years Freelance AI Experience | 9+ Years Industrial Engineering  
+💼 2+ Years Freelance AIML Experience | 9+ Years Constructional Electrical CAD Design Engineering  
 📍 Chennai, India | Open to Bangalore • Hyderabad • Remote
 
 ---
@@ -13,9 +13,9 @@
 
 I build production-ready AI applications using **LLMs, Agentic AI, RAG, Computer Vision, and Cloud Technologies**.
 
-Currently working as a **Freelance AI Engineer** through **AI Vision**, delivering AI solutions for healthcare and startup clients.
+Currently working as a **Freelance AIML Engineer** through **AI Vision**, delivering AI solutions for healthcare and startup clients.
 
-Previously worked for **9+ years in Industrial Electrical Engineering**, bringing strong engineering discipline, reliability, and systems thinking into AI development.
+Previously worked for **9+ years in Industrial Electrical CAD Design Engineering**, bringing strong engineering discipline, reliability, and systems thinking into AI development.
 
 ---
 
