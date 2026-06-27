@@ -1,342 +1,224 @@
 # 👋 Hi, I'm Rajaganapathy M
 
-# Freelance AI Engineer | LLM Engineer | Agentic AI Developer | Computer Vision Engineer
+## Freelance AI Engineer | LLM Engineer | Agentic AI | Computer Vision
 
-**2+ Years Freelance AI Experience • 9+ Years Industrial Engineering Experience**
-
-📍 Chennai, India • Open to Bangalore, Hyderabad & Remote
-
----
-
-# 🚀 Professional Summary
-
-AI Engineer with **2+ years of freelance experience** designing and deploying production AI applications using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), Computer Vision, and Generative AI.
-
-I have delivered commercial AI solutions for healthcare clients, developed AI agents for startup environments, and built production-ready applications using Python, FastAPI, Azure, Docker, GitHub Actions, Hugging Face, LangChain, and modern open-source LLMs.
-
-Before transitioning into AI, I spent **9+ years as an Electrical Engineer**, working on industrial electrical systems, maintenance, commissioning, and safety-critical infrastructure. That engineering discipline now shapes how I design reliable AI systems.
-
-Currently seeking opportunities as an AI Engineer, LLM Engineer, Agentic AI Engineer, or Machine Learning Engineer.
+🏢 Founder – AI Vision (Government of India MSME Registered)  
+📄 Patent Filed | IEEE Paper Submitted | M.Tech AI (CGPA 9.6/10)  
+💼 2+ Years Freelance AI Experience | 9+ Years Industrial Engineering  
+📍 Chennai, India | Open to Bangalore • Hyderabad • Remote
 
 ---
 
-# 💼 Professional Experience
+## 🚀 About Me
 
-## Freelance AI Engineer
+I build production-ready AI applications using **LLMs, Agentic AI, RAG, Computer Vision, and Cloud Technologies**.
 
-**AI Vision**
-**June 2024 – Present**
+Currently working as a **Freelance AI Engineer** through **AI Vision**, delivering AI solutions for healthcare and startup clients.
 
-Designing and delivering production AI systems for businesses using modern LLM technologies.
-
-### Responsibilities
-
-* Production AI application development
-* LLM & RAG systems
-* Agentic AI architecture
-* FastAPI backend development
-* Azure cloud deployment
-* Docker containerization
-* GitHub Actions CI/CD
-* OCR & Document AI
-* Computer Vision
-* Prompt Engineering
-* AI workflow automation
-* Production support
+Previously worked for **9+ years in Industrial Electrical Engineering**, bringing strong engineering discipline, reliability, and systems thinking into AI development.
 
 ---
 
-## Client Delivery — Anbu Health AI
+## 💼 Professional Experience
 
-Designed and developed a multilingual healthcare AI assistant for a medical clinic.
+### Founder & Freelance AI Engineer
+**AI Vision (MSME Registered)**
 
-### Features
+**Udyam Registration No.: UDYAM-TN-02-0483528**
 
-* Medical chatbot
-* Tamil & English support
-* Lab report analysis
-* Prescription analysis
-* Medical image understanding
-* Appointment booking
-* OTP authentication
-* Azure deployment
-* Production hosting
-* Ongoing maintenance
+**2024 – Present**
 
-**Tech Stack**
+Developing production AI applications including:
 
-Python • FastAPI • Azure • LangChain • OpenAI • GitHub Actions • Docker
+- 🏥 Healthcare AI Assistant
+- 🤖 Agentic AI Systems
+- 🧠 LLM & RAG Applications
+- 👁️ Computer Vision Solutions
+- ☁️ Azure Cloud Deployment
+- ⚡ FastAPI Backend Development
+- 🐳 Docker & GitHub Actions CI/CD
 
 ---
 
-## AI Engineer (Freelance / Startup Collaboration)
+### AI Engineer (Startup Collaboration)
 
-**Confidential Startup**
-2026 – Present
+**2026 – Present**
 
-Working on Spec-Driven AI Agents using Google ADK.
+Currently building **Spec-Driven AI Agents** using:
 
-Responsibilities include
-
-* Multi-Agent Systems
-* Agent Orchestration
-* Planning Agents
-* Tool Calling
-* Memory Systems
-* Evaluation Pipelines
-* Gemini Integration
-* Prompt Engineering
+- Google ADK
+- Gemini
+- Multi-Agent Systems
+- Tool Calling
+- Memory Architecture
+- Planning & Evaluation
 
 ---
 
-# 🏆 Highlights
+## 🏆 Highlights
 
-* 🇮🇳 Indian Patent Filed (App No. 202641043947)
-* 📄 IEEE Conference Paper Submitted
-* 🎓 M.Tech Artificial Intelligence (CGPA 9.6/10)
-* 🤗 Published 3 AI Models on Hugging Face
-* ☁️ Multiple Azure AI Deployments
-* 🌐 Built Chromium Browser from Source
-* 🏅 NPTEL Top 5%
-* 🆔 ORCID Registered
-* 📚 Google Scholar Author
-
----
-
-# 🧠 Core Skills
-
-## Generative AI
-
-* LLMs
-* Agentic AI
-* Prompt Engineering
-* LangChain
-* LangGraph
-* RAG
-* FAISS
-* Hugging Face
-* PEFT
-* LoRA
-* QLoRA
-* SFT
+- 🇮🇳 Indian Patent Filed
+- 📄 IEEE Conference Paper Submitted
+- 🎓 M.Tech Artificial Intelligence (CGPA 9.6/10)
+- 🤗 Published AI Models on Hugging Face
+- 🌐 Built Chromium Browser from Source
+- ☁️ Deployed Production AI Systems on Azure
+- 🏅 NPTEL Top 5%
+- 📚 Google Scholar Author
+- 🆔 ORCID Researcher
 
 ---
 
-## Machine Learning
+## 🚀 Featured Projects
 
-* Scikit-Learn
-* XGBoost
-* TensorFlow
-* PyTorch
-* Transformers
-
----
-
-## Computer Vision
-
-* OpenCV
-* CLIP
-* BLIP
-* Vision Transformers
-
----
-
-## NLP
-
-* NLTK
-* TextBlob
-* Named Entity Recognition
-* Sentiment Analysis
-* TF-IDF
-
----
-
-## Backend
-
-* FastAPI
-* Python
-* SQLAlchemy
-* REST APIs
-
----
-
-## Cloud
-
-* Azure
-* AWS
-* GCP
-* EC2
-* S3
-* Azure OpenAI
-
----
-
-## DevOps
-
-* Docker
-* GitHub Actions
-* Linux
-* Bash
-
----
-
-## Databases
-
-* MySQL
-* MongoDB
-* FAISS
-
----
-
-# 🚀 Featured Projects
-
-## 🥇 Antahkarana Reasoning Framework
-
+### 🥇 Antahkarana Reasoning Framework
 Patent Filed • IEEE Paper
 
-A cognitively inspired reasoning architecture for LLMs and Vision Language Models.
+A cognitively inspired reasoning framework for LLMs & Vision Language Models.
 
-Highlights
-
-* Modular reasoning
-* RAG
-* Vision AI
-* Azure deployment
-* LangChain
-* BLIP
-* Qwen
+**Tech:** Python • LangChain • BLIP • Qwen • FAISS • Azure
 
 ---
 
-## 🏥 Anbu Health AI
+### 🏥 Anbu Health AI
 
-Commercial healthcare AI platform.
+Production multilingual healthcare assistant featuring:
 
-Features
-
-* Medical Assistant
-* OCR
-* Medical Report Analysis
-* Image Understanding
-* Azure Deployment
-* Production CI/CD
+- Medical Report Analysis
+- Prescription Understanding
+- Medical Image Analysis
+- Appointment Booking
+- Azure Deployment
 
 ---
 
-## 🤖 AgentNet Enterprise
+### 🤖 AgentNet Enterprise
 
-Multi-Agent enterprise support system with LLM-as-a-Judge.
+Enterprise Multi-Agent AI platform featuring:
 
----
-
-## 🌐 Conscious AI Browser
-
-Chromium browser compiled from source with integrated LLM sidebar.
-
----
-
-## 🤗 TinyLLaMA & Mini-VLM
-
-Built and fine-tuned LLM and Vision Language Models using PyTorch and Hugging Face.
+- Agent Orchestration
+- LLM-as-a-Judge
+- RAG
+- Memory
+- Evaluation
 
 ---
 
-# 🎓 Education
+### 🌐 Conscious AI Browser
 
-## M.Tech Artificial Intelligence
+Chromium Browser compiled from source with integrated LLM sidebar.
+
+---
+
+### 🤗 TinyLLaMA & Mini-VLM
+
+Built and fine-tuned LLM & Vision Language Models using PyTorch and Hugging Face.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • SQL • Bash
+
+**AI / ML**
+
+PyTorch • TensorFlow • Scikit-learn • Transformers • Hugging Face
+
+**LLMs**
+
+LangChain • RAG • FAISS • PEFT • LoRA • QLoRA
+
+**Computer Vision**
+
+OpenCV • CLIP • BLIP • Vision Transformers
+
+**Backend**
+
+FastAPI • REST API • SQLAlchemy
+
+**Cloud**
+
+Azure • AWS • GCP
+
+**DevOps**
+
+Docker • GitHub Actions • Linux
+
+**Database**
+
+MySQL • MongoDB • FAISS
+
+---
+
+## 🎓 Education
+
+**M.Tech – Artificial Intelligence**
 
 SRM Institute of Science and Technology
 
-CGPA: **9.6 / 10**
-
-Graduated: **May 2026**
+CGPA **9.6 / 10**
 
 ---
 
-## IITM Pravartak AI & ML Professional Program
+**AI & ML Professional Program**
 
-GUVI • IIT Madras • NASSCOM
-
-Duration
-
-1 Year
-
-Highlights
-
-* 18 Modules
-* 7 Capstone Projects
-* Mentor Guided
+GUVI • IITM Pravartak • NASSCOM
 
 ---
 
-## B.E Electrical & Electronics Engineering
+**B.E – Electrical & Electronics Engineering**
 
 Thangavelu Engineering College
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-* AWS Solutions Architect
-* DevOps Beginners to Advanced
-* GUVI AI & ML Professional
-* NPTEL Internet of Things (Top 5%)
-* Kaggle AI Agents Intensive
-* OpenCV University
-* TensorFlow
-* PyTorch
-
----
-
-# 📚 Research
-
-* Indian Patent Filed
-* IEEE Conference Paper Submitted
-* ORCID Author
-* Google Scholar Profile
+- AWS Solutions Architect
+- DevOps
+- NPTEL Top 5%
+- Google AI Agents
+- OpenCV University
+- TensorFlow
+- PyTorch
+- GUVI AI & ML Professional
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
-Portfolio
+🌍 Portfolio: https://rajaganaa.github.io
 
-https://rajaganaa.github.io
+💻 GitHub: https://github.com/rajaganaa
 
-GitHub
+🤗 Hugging Face: https://huggingface.co/RajGana
 
-https://github.com/rajaganaa
+📚 Google Scholar
 
-Hugging Face
+🆔 ORCID
 
-https://huggingface.co/RajGana
+💼 LinkedIn
 
-LinkedIn
-
-https://linkedin.com/in/raja-ganapathy-36b00658
-
-Google Scholar
-
-https://scholar.google.com/citations?user=93hagOEAAAAJ
-
-ORCID
-
-https://orcid.org/0009-0006-9701-7942
-
-Email
-
-[rajaganaa@gmail.com](mailto:rajaganaa@gmail.com)
+📧 rajaganaa@gmail.com
 
 ---
 
-# 🤝 Open To
+## 🤝 Open To
 
-* AI Engineer
-* Machine Learning Engineer
-* LLM Engineer
-* Agentic AI Engineer
-* Generative AI Engineer
-* Computer Vision Engineer
-* MLOps Engineer
+✔ AI Engineer
+
+✔ LLM Engineer
+
+✔ Agentic AI Engineer
+
+✔ Machine Learning Engineer
+
+✔ Computer Vision Engineer
+
+✔ Generative AI Engineer
+
+✔ Research Engineer
 
 **Immediate Joiner**
