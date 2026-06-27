@@ -1,205 +1,342 @@
-## 👋 Rajaganapathy M
+# 👋 Hi, I'm Rajaganapathy M
 
-**AI/ML Engineer | LLM Architect | Agentic AI | Patent Filed | IEEE Paper Submitted**
+# Freelance AI Engineer | LLM Engineer | Agentic AI Developer | Computer Vision Engineer
 
-**M.Tech Artificial Intelligence – SRM Institute (Graduated May 2026 | CGPA 9.6/10)
-IITM Pravartak Certified AI & ML Program – GUVI / IIT Madras / NASSCOM (Nov 2023 – Nov 2024 | 1 Year | 7 Capstone Projects)
-9+ Years Prior Engineering | Chennai → Open to Bangalore / Hyderabad**
+**2+ Years Freelance AI Experience • 9+ Years Industrial Engineering Experience**
 
----
-
-## ⚡ Who I Am
-
-I quit a 9-year engineering career in Jul 2023 to go all-in on AI.
-In 1000 days I filed a patent, submitted an IEEE paper, graduated with 9.6 CGPA,
-deployed live AI products on Azure, and published 3 models on HuggingFace.
-
-> *The same discipline that kept 500 kVA transformers running is in every line of AI code I write.*
+📍 Chennai, India • Open to Bangalore, Hyderabad & Remote
 
 ---
 
-## 🏆 Key Achievements
+# 🚀 Professional Summary
 
-| Achievement | Details |
-|---|---|
-| 🇮🇳 **Indian Patent Filed** | App No. 202641043947 — Antahkarana Reasoning System |
-| 📄 **IEEE Paper Submitted** | SRM Institute 2026 — Google Scholar Indexed |
-| 🆔 **ORCID Registered** | 0009-0006-9701-7942 |
-| 🎓 **M.Tech AI — Graduated** | CGPA 9.6/10 — SRM Institute — May 2026 |
-| 📘 **IITM Pravartak AI & ML** | GUVI / IIT Madras / NASSCOM — 1 Year — 7 Capstone Projects |
-| 🤗 **3 Live HuggingFace Models** | LLM + VLM from scratch + CodeLlama fine-tune |
-| 🌐 **Chromium Browser Built** | 26,000 build steps + LLaMA 3.3 70B — from source |
-| ☁️ **Azure Live Deployment** | Medical AI with CI/CD pipeline |
-| 🏅 **NPTEL Top 5%** | IoT — 86% score — out of 50,282 candidates |
-| 🥈 **Hackathon 6th Place** | SRM Platform — out of 195 participants |
-| ✅ **100% Attendance** | All 4 M.Tech semesters |
+AI Engineer with **2+ years of freelance experience** designing and deploying production AI applications using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), Computer Vision, and Generative AI.
+
+I have delivered commercial AI solutions for healthcare clients, developed AI agents for startup environments, and built production-ready applications using Python, FastAPI, Azure, Docker, GitHub Actions, Hugging Face, LangChain, and modern open-source LLMs.
+
+Before transitioning into AI, I spent **9+ years as an Electrical Engineer**, working on industrial electrical systems, maintenance, commissioning, and safety-critical infrastructure. That engineering discipline now shapes how I design reliable AI systems.
+
+Currently seeking opportunities as an AI Engineer, LLM Engineer, Agentic AI Engineer, or Machine Learning Engineer.
 
 ---
 
-## 🎓 Education & Training
+# 💼 Professional Experience
 
-| Program | Institution | Period | Status |
-|---|---|---|---|
-| M.Tech — Artificial Intelligence | SRM Institute of Science & Technology | 2024 – May 2026 | ✅ Graduated · CGPA 9.6/10 |
-| **IITM Pravartak Certified AI & ML Program** | **GUVI (IIT Madras Incubated) + NASSCOM + Google for Education** | **Nov 2023 – Nov 2024** | **✅ Certified** |
-| B.E — Electrical & Electronics Engineering | Thangavelu Engineering College, Chennai | 2009 – 2013 | ✅ Completed |
+## Freelance AI Engineer
 
-> 💡 GUVI program: ₹1 Lakh paid · Live weekend classes · IIT-Ropar PhD faculty · 18 modules · 7 capstone projects with mentor sign-off · Cert ID: Xd67z1F22po7eP2299
+**AI Vision**
+**June 2024 – Present**
 
----
+Designing and delivering production AI systems for businesses using modern LLM technologies.
 
-## 🧠 Tech Stack
+### Responsibilities
 
-**Generative AI / LLMs**
-`LLM Orchestration` `RAG` `FAISS` `Prompt Engineering` `Agentic Workflows`
-`LangChain` `HuggingFace` `QLoRA` `PEFT` `LoRA` `SFTTrainer` `bitsandbytes`
-
-**Deep Learning**
-`PyTorch` `TensorFlow` `Transformers` `BLIP-3` `CLIP` `ViT` `Qwen` `CodeLlama` `TinyLLaMA`
-
-**Machine Learning**
-`scikit-learn` `XGBoost` `Gradient Boosting` `K-Means` `TF-IDF` `SMOTE` `statsmodels`
-
-**NLP**
-`NLTK` `TextBlob` `Lemmatization` `POS Tagging` `Sentiment Analysis` `NER`
-
-**Computer Vision**
-`OpenCV` `CLIP (OpenAI)` `BLIP (Salesforce)` `PyTorch Vision`
-
-**Cloud**
-`AWS SageMaker` `Azure OpenAI` `GCP Vertex AI` `S3` `EC2`
-
-**DevOps / MLOps**
-`Docker` `GitHub Actions` `Linux` `Bash` `FastAPI` `Streamlit` `Vercel`
-
-**Data Engineering**
-`pandas` `NumPy` `MySQL` `MongoDB` `ETL Pipelines` `YouTube API` `SQLAlchemy`
+* Production AI application development
+* LLM & RAG systems
+* Agentic AI architecture
+* FastAPI backend development
+* Azure cloud deployment
+* Docker containerization
+* GitHub Actions CI/CD
+* OCR & Document AI
+* Computer Vision
+* Prompt Engineering
+* AI workflow automation
+* Production support
 
 ---
 
-## 🚀 Projects
+## Client Delivery — Anbu Health AI
 
-### ⭐ P.001 — Antahkarana Reasoning Framework (FLAGSHIP)
-> Patent Filed · IEEE Submitted · Azure Deployed · 2,500+ Validated Samples
+Designed and developed a multilingual healthcare AI assistant for a medical clinic.
 
-Cognitively-inspired adaptive reasoning for LLMs and VLMs — inspired by Vedantic architecture.
-Routes queries through 4 stages: manas → buddhi → chitta → ahamkara.
-`Python` `Qwen 0.5` `BLIP-3` `LangChain` `FAISS` `Azure` `Apache 2.0`
-🔗 [Live Demo](https://rajaganaa.github.io/antahkarana-frontend/) | [GitHub](https://github.com/rajaganaa/antahkarana-reasoning-framework) | [Scholar](https://scholar.google.com/citations?user=93hagOEAAAAJ)
+### Features
 
----
+* Medical chatbot
+* Tamil & English support
+* Lab report analysis
+* Prescription analysis
+* Medical image understanding
+* Appointment booking
+* OTP authentication
+* Azure deployment
+* Production hosting
+* Ongoing maintenance
 
-### P.002 — Antahkarana Medical AI (Live on Azure)
-Full-stack multimodal medical assistant. Azure deployment with GitHub Actions CI/CD.
-`LangChain` `Azure OpenAI` `Streamlit` `FastAPI` `GitHub Actions`
-🔗 [GitHub](https://github.com/rajaganaa/antahkarana-product)
+**Tech Stack**
 
----
-
-### P.003 — MML Smart Campus Security
-AI surveillance using CLIP + BLIP + Voice Biometrics. Replaces manual CCTV monitoring.
-`OpenAI CLIP` `Salesforce BLIP` `PyTorch` `OpenCV`
-🔗 [GitHub](https://github.com/rajaganaa/MML_smart_campus_security_system)
+Python • FastAPI • Azure • LangChain • OpenAI • GitHub Actions • Docker
 
 ---
 
-### P.004 — AgentNet Enterprise Support (Multi-Agent)
-Self-correcting multi-agent system with LLM-as-Judge quality grading loop.
-`LangChain` `FAISS` `Vertex AI` `Custom trace logging`
-🔗 [GitHub](https://github.com/rajaganaa/AgentNet-Enterprise-Support)
+## AI Engineer (Freelance / Startup Collaboration)
+
+**Confidential Startup**
+2026 – Present
+
+Working on Spec-Driven AI Agents using Google ADK.
+
+Responsibilities include
+
+* Multi-Agent Systems
+* Agent Orchestration
+* Planning Agents
+* Tool Calling
+* Memory Systems
+* Evaluation Pipelines
+* Gemini Integration
+* Prompt Engineering
 
 ---
 
-### P.005 — Hospital Readmission Risk Predictor
-Two-stage ML: 95% A1C imputation + XGBoost 30-day readmission classifier. Targets $41B problem.
-`XGBoost` `scikit-learn` `SMOTETomek` `Streamlit`
-🔗 [GitHub](https://github.com/rajaganaa/Hospital-Readmission-Predictor)
+# 🏆 Highlights
+
+* 🇮🇳 Indian Patent Filed (App No. 202641043947)
+* 📄 IEEE Conference Paper Submitted
+* 🎓 M.Tech Artificial Intelligence (CGPA 9.6/10)
+* 🤗 Published 3 AI Models on Hugging Face
+* ☁️ Multiple Azure AI Deployments
+* 🌐 Built Chromium Browser from Source
+* 🏅 NPTEL Top 5%
+* 🆔 ORCID Registered
+* 📚 Google Scholar Author
 
 ---
 
-### P.006 — YouTube Data ETL Pipeline
-Full ETL: YouTube API → pandas → MySQL warehouse → Streamlit analytics dashboard.
-`Python` `SQL` `MySQL` `YouTube API v3` `pandas`
-🔗 [GitHub](https://github.com/rajaganaa/YouTube-Data-ETL-Pipeline)
+# 🧠 Core Skills
+
+## Generative AI
+
+* LLMs
+* Agentic AI
+* Prompt Engineering
+* LangChain
+* LangGraph
+* RAG
+* FAISS
+* Hugging Face
+* PEFT
+* LoRA
+* QLoRA
+* SFT
 
 ---
 
-### P.007 — Industrial HR Geo-Visualization Dashboard
-TF-IDF + K-Means NLP clustering of census data → choropleth workforce maps.
-`scikit-learn` `NLTK` `Plotly` `Folium` `Streamlit`
-🔗 [GitHub](https://github.com/rajaganaa/Industrial-HR-Geo-Dashboard)
+## Machine Learning
+
+* Scikit-Learn
+* XGBoost
+* TensorFlow
+* PyTorch
+* Transformers
 
 ---
 
-### P.008 — PhonePe Transaction Visualizer
-ETL of PhonePe Pulse GeoJSON → 9-table MySQL → Streamlit choropleth BI dashboard.
-`Python` `MySQL` `Plotly` `Streamlit`
-🔗 [GitHub](https://github.com/rajaganaa/PhonePe-Transaction-Visualizer)
+## Computer Vision
+
+* OpenCV
+* CLIP
+* BLIP
+* Vision Transformers
 
 ---
 
-### P.009 — TinyLLaMA & Mini-VLM (Built from Scratch in 1 Day)
-LLM loss 8.9→0.33. VLM loss 17→1.17. LoRA fine-tune loss 1.6→1.01. ~$10 compute. Live on HuggingFace.
-`PyTorch` `Transformers` `LoRA` `HuggingFace Hub`
-🤗 [LLM Model](https://huggingface.co/RajGana/tinyllama-alpaca-finetuned) | [VLM Model](https://huggingface.co/RajGana/mini-vlm-scratch)
+## NLP
+
+* NLTK
+* TextBlob
+* Named Entity Recognition
+* Sentiment Analysis
+* TF-IDF
 
 ---
 
-### P.010 — Conscious AI Browser (Chromium Source Build)
-26,000 build steps from Chromium source on GCP. LLaMA 3.3 70B AI sidebar. Linux .deb installer.
-`Chromium` `LLaMA 3.3 70B` `Linux` `GCP` `Vercel`
-🔗 [Live Demo](https://conscious-ai-webapp.vercel.app) | [GitHub](https://github.com/rajaganaa/conscious-ai-browser)
+## Backend
+
+* FastAPI
+* Python
+* SQLAlchemy
+* REST APIs
 
 ---
 
-### P.011 — CodeLlama Coding Assistant (AWS SageMaker Fine-tune)
-QLoRA 4-bit fine-tune of CodeLlama-7B on CodeAlpaca-20K. 60% GPU memory saving. Live Gradio demo.
-`CodeLlama-7B` `QLoRA` `AWS SageMaker` `Groq API` `HuggingFace Spaces` `FastAPI`
-🔗 [Live Demo](https://huggingface.co/spaces/RajGana/codellama-demo) | [Model](https://huggingface.co/RajGana/codellama-coding-assistant)
+## Cloud
+
+* Azure
+* AWS
+* GCP
+* EC2
+* S3
+* Azure OpenAI
 
 ---
 
-### P.012 — Healthcare Review NLP Sentiment Engine
-TextBlob + TF-IDF + SMOTE ensemble — automated patient feedback classification pipeline.
-`NLTK` `TextBlob` `scikit-learn` `imbalanced-learn` `Plotly`
-🔗 [GitHub](https://github.com/rajaganaa/Healthcare-Review-NLP)
+## DevOps
+
+* Docker
+* GitHub Actions
+* Linux
+* Bash
 
 ---
 
-## 📜 Certifications (Selected)
+## Databases
 
-| Certificate | Platform | Date |
-|---|---|---|
-| AWS Solutions Architect Associate | Udemy (Stephane Maarek) | Oct 2025 |
-| DevOps Beginners to Advanced | Udemy (Imran Teli) | Jul 2025 |
-| **AI & ML Professional Program** | **GUVI / IIT-M Pravartak / NASSCOM** | **Nov 2023 – Nov 2024** |
-| **NPTEL IoT — Top 5% (86%)** | **IIT Kharagpur / SWAYAM** | **Oct 2025** |
-| 5-Day AI Agents Intensive | Kaggle + Google | Dec 2025 |
-| Advanced Python / R / SQL | GUVI / IIT Madras | 2024 |
-| PyTorch · TensorFlow · DSA | Simplilearn SkillUP | Nov–Dec 2024 |
-| OpenCV Certification | OpenCV University | Mar 2025 |
+* MySQL
+* MongoDB
+* FAISS
 
 ---
 
-## 🔗 Links
+# 🚀 Featured Projects
 
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | [rajaganaa.github.io](https://rajaganaa.github.io) |
-| 🤗 HuggingFace | [huggingface.co/RajGana](https://huggingface.co/RajGana) |
-| 🆔 ORCID | [0009-0006-9701-7942](https://orcid.org/0009-0006-9701-7942) |
-| 📚 Google Scholar | [Raja Ganapathy M](https://scholar.google.com/citations?user=93hagOEAAAAJ) |
-| in LinkedIn | [raja-ganapathy-36b00658](https://www.linkedin.com/in/raja-ganapathy-36b00658) |
-| ▶ YouTube | [@rajaganaaAI](https://youtube.com/@rajaganaaAI) |
-| 📧 Email | rajaganaa@gmail.com |
-| 📍 Location | Chennai · Open to Bangalore / Hyderabad |
+## 🥇 Antahkarana Reasoning Framework
+
+Patent Filed • IEEE Paper
+
+A cognitively inspired reasoning architecture for LLMs and Vision Language Models.
+
+Highlights
+
+* Modular reasoning
+* RAG
+* Vision AI
+* Azure deployment
+* LangChain
+* BLIP
+* Qwen
 
 ---
 
-## 🤝 Open To
+## 🏥 Anbu Health AI
 
-✅ AI/ML Engineer | LLM Engineer | Agentic AI Engineer
-✅ Data Scientist | MLOps Engineer | NLP Engineer
-✅ AI Scientist | Research Engineer
-✅ Chennai / Bangalore / Hyderabad / Remote
-✅ **Immediate Joiner — No Notice Period**
+Commercial healthcare AI platform.
+
+Features
+
+* Medical Assistant
+* OCR
+* Medical Report Analysis
+* Image Understanding
+* Azure Deployment
+* Production CI/CD
+
+---
+
+## 🤖 AgentNet Enterprise
+
+Multi-Agent enterprise support system with LLM-as-a-Judge.
+
+---
+
+## 🌐 Conscious AI Browser
+
+Chromium browser compiled from source with integrated LLM sidebar.
+
+---
+
+## 🤗 TinyLLaMA & Mini-VLM
+
+Built and fine-tuned LLM and Vision Language Models using PyTorch and Hugging Face.
+
+---
+
+# 🎓 Education
+
+## M.Tech Artificial Intelligence
+
+SRM Institute of Science and Technology
+
+CGPA: **9.6 / 10**
+
+Graduated: **May 2026**
+
+---
+
+## IITM Pravartak AI & ML Professional Program
+
+GUVI • IIT Madras • NASSCOM
+
+Duration
+
+1 Year
+
+Highlights
+
+* 18 Modules
+* 7 Capstone Projects
+* Mentor Guided
+
+---
+
+## B.E Electrical & Electronics Engineering
+
+Thangavelu Engineering College
+
+---
+
+# 📜 Certifications
+
+* AWS Solutions Architect
+* DevOps Beginners to Advanced
+* GUVI AI & ML Professional
+* NPTEL Internet of Things (Top 5%)
+* Kaggle AI Agents Intensive
+* OpenCV University
+* TensorFlow
+* PyTorch
+
+---
+
+# 📚 Research
+
+* Indian Patent Filed
+* IEEE Conference Paper Submitted
+* ORCID Author
+* Google Scholar Profile
+
+---
+
+# 🌐 Connect
+
+Portfolio
+
+https://rajaganaa.github.io
+
+GitHub
+
+https://github.com/rajaganaa
+
+Hugging Face
+
+https://huggingface.co/RajGana
+
+LinkedIn
+
+https://linkedin.com/in/raja-ganapathy-36b00658
+
+Google Scholar
+
+https://scholar.google.com/citations?user=93hagOEAAAAJ
+
+ORCID
+
+https://orcid.org/0009-0006-9701-7942
+
+Email
+
+[rajaganaa@gmail.com](mailto:rajaganaa@gmail.com)
+
+---
+
+# 🤝 Open To
+
+* AI Engineer
+* Machine Learning Engineer
+* LLM Engineer
+* Agentic AI Engineer
+* Generative AI Engineer
+* Computer Vision Engineer
+* MLOps Engineer
+
+**Immediate Joiner**
