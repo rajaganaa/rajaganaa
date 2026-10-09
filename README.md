@@ -3,7 +3,7 @@
 ## Freelance AIML Engineer | LLM Engineer | Agentic AI | Computer Vision
 
 🏢 Founder – AI Vision (Government of India MSME Registered)  
-📄 Patent Filed | IEEE Paper Submitted | M.Tech AI (CGPA 9.6/10)  
+📄 Patent Filed | IEEE Paper Published | M.Tech AI (CGPA 9.6/10)  
 💼 2+ Years Freelance AIML Experience | 9+ Years Constructional Electrical CAD Design Engineering  
 📍 Chennai, India | Open to Bangalore • Hyderabad • Remote
 
