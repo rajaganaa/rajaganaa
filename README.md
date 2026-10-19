@@ -140,7 +140,7 @@ Five hands-on security-engineering labs built to demonstrate practical blue-team
 
 ## 💼 Experience
 
-**Founder & AI/ML Engineer: AI Vision** *(Udyam-registered MSME)* · Jul 2024 – Present
+**Founder & AI/ML Engineer: AI Vision** *(Udyam-registered MSME)* · Jul 2023 – Present
 Independent GenAI / agentic AI consulting and product delivery: [Anbu Health AI](https://anbuclinic.me) (paid client engagement: build, deploy, monthly maintenance), a spec-driven multi-agent platform for a startup, and [aivisionlabs.tech](https://www.aivisionlabs.tech).
 
 **Electrical Constructional Site Engineer: SR Electrical Works** · 2017 – 2023
