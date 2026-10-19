@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajaganapathy M
 
-### GenAI & Agentic AI Architect · LLM / ML Engineer · Computer Vision
+### GenAI & Agentic AI Architect · LLM / ML Engineer · Computer Vision . AI Security
 
 I design and ship **production AI systems**: multi-agent platforms, RAG pipelines, fine-tuned LLMs and vision-language models, deployed on Azure / AWS / GCP, and I build them security-aware.
 
